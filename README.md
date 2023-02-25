@@ -1,2 +1,2 @@
 # 7z
-7-Zip - Binary
+7-Zip - Binary (Helper)
